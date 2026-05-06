@@ -1,0 +1,3 @@
+SET A TO 10 + 20 * 3
+SET B TO A ÷ 2
+DISPLAY B
